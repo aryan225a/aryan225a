@@ -9,7 +9,7 @@
 <br/>
 
 🎓 **B.Tech in Computer Science** at the Institute of Engineering and Management  
-🧠 Focused on **Generative AI (RAG, LangChain, LangGraph)**, **Computer Vision (YOLOv8, CNNs)**, and **End-to-End Product Development**  
+🧠 Focused on **Generative AI (RAG, LangChain, LangGraph)**, **Computer Vision (YOLOv8, CNNs)**, and **End-to-End AI Systems**  
 🚀 Passionate about building scalable AI systems and intelligent automation  
 📌 Explore my pinned projects below!
 
