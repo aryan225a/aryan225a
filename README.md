@@ -85,6 +85,3 @@ Built a YOLOv8 pipeline to detect safety equipment in simulated space station im
 
 ---
 ⭐ _Thanks for visiting! Feel free to connect or explore my work._
-
-
-⭐ _Feel free to explore my repositories or connect for collaboration!_
