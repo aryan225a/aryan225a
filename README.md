@@ -37,7 +37,7 @@
 ## 🛠️ Core Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,tensorflow,pytorch,react,fastapi,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,tensorflow,pytorch,fastapi,docker,git,github" />
 </p>
 
 <p align="center">
@@ -60,16 +60,16 @@
 ## 🚀 Featured Projects
 
 🔹 **Sarathi – RAG Chatbot with LangGraph**  
-Flan-T5 | Gemini | LlamaIndex | Streamlit  
+Grok | Gemini | LlamaIndex | Streamlit  
 Dynamic document-aware chatbot with contextual retrieval and summarization.
 
 🔹 **SkinARTify – Dermatology AI Platform**  
 DenseNet121 | FastAPI | React | MongoDB  
 AI-based skin lesion classification and medical image visualization.
 
-🔹 **Space Station Safety Detection**  
+🔹 **Space Station Safety Object Detection**  
 YOLOv8 | OpenCV | CUDA  
-Dual-stage detection pipeline with 0.85 mAP accuracy.
+Built a YOLOv8 pipeline to detect safety equipment in simulated space station images with 0.85 mAP accuracy.
 
 ---
 
