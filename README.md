@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryan225a/aryan225a/main/banner.png" width="100%" alt="Tejasvi Aryan Banner" />
+</p>
+
 <h1 align="center">👋 Hey, I'm <span style="color:#36BCF7;">Tejasvi Aryan</span></h1>
 
 <div align="center">
@@ -9,7 +13,7 @@
 <br/>
 
 🎓 **B.Tech in Computer Science** at the Institute of Engineering and Management  
-🧠 Focused on **Generative AI (RAG, LangChain, LangGraph)**, **Computer Vision (YOLOv8, CNNs)**, and **End-to-End AI Systems**  
+🧠 Focused on **Generative AI (RAG, LangChain, LangGraph)**, **Computer Vision (YOLOv8, CNNs)**, and **End-to-End Product Development**  
 🚀 Passionate about building scalable AI systems and intelligent automation  
 📌 Explore my pinned projects below!
 
@@ -18,9 +22,6 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:tejasviaryan225@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/tejasvi-aryan-27206428b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -40,7 +41,7 @@
 ## 🛠️ Core Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,tensorflow,pytorch,fastapi,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,tensorflow,pytorch,react,fastapi,docker,git,github" />
 </p>
 
 <p align="center">
@@ -63,16 +64,16 @@
 ## 🚀 Featured Projects
 
 🔹 **Sarathi – RAG Chatbot with LangGraph**  
-Grok | Gemini | LlamaIndex | Streamlit  
+Flan-T5 | Gemini | LlamaIndex | Streamlit  
 Dynamic document-aware chatbot with contextual retrieval and summarization.
 
 🔹 **SkinARTify – Dermatology AI Platform**  
 DenseNet121 | FastAPI | React | MongoDB  
 AI-based skin lesion classification and medical image visualization.
 
-🔹 **Space Station Safety Object Detection**  
+🔹 **Space Station Safety Detection**  
 YOLOv8 | OpenCV | CUDA  
-Built a YOLOv8 pipeline to detect safety equipment in simulated space station images with 0.85 mAP accuracy.
+Dual-stage detection pipeline with 0.85 mAP accuracy.
 
 ---
 
@@ -84,4 +85,6 @@ Built a YOLOv8 pipeline to detect safety equipment in simulated space station im
 </div>
 
 ---
+
 ⭐ _Thanks for visiting! Feel free to connect or explore my work._
+
