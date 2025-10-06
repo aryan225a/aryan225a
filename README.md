@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aryan225a/aryan225a/main/banner.png" width="100%" alt="Tejasvi Aryan Banner" />
-</p>
-
 <h1 align="center">👋 Hey, I'm <span style="color:#36BCF7;">Tejasvi Aryan</span></h1>
 
 <div align="center">
