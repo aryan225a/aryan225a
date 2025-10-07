@@ -59,17 +59,18 @@
 
 ## 🚀 Featured Projects
 
+🔹 **Nyay Mitra – Full-Stack Legal AI Platform**  
+FastAPI | Node.js (Express) | Gemini | LangChain | LlamaIndex | MongoDB | Docker  
+* Architected "**Nyay Mitra**", a **jurisdiction-aware legal AI platform** with an **AI agent** specialized for the **Indian legal system**.
+* Performing multi-tool, multilingual orchestration for deep document analysis (RAG) and managed via a secure Node.js API gateway.
+
 🔹 **Sarathi – RAG Chatbot with LangGraph**  
-Flan-T5 | Gemini | LlamaIndex | Streamlit  
-Dynamic document-aware chatbot with contextual retrieval and summarization.
+Grok | Gemini | LlamaIndex | Streamlit  
+* Dynamic document-aware chatbot with contextual retrieval and summarization.
 
 🔹 **SkinARTify – Dermatology AI Platform**  
 DenseNet121 | FastAPI | React | MongoDB  
-AI-based skin lesion classification and medical image visualization.
-
-🔹 **Space Station Safety Detection**  
-YOLOv8 | OpenCV | CUDA  
-Dual-stage detection pipeline with 0.85 mAP accuracy.
+* AI-based skin lesion classification and medical image visualization.
 
 ---
 
